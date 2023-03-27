@@ -1,0 +1,133 @@
+.padding-0{
+    padding: 0!important;
+}
+
+.padding-top-20{
+    padding-top: 20px!important;
+}
+
+.padding-left-10{
+    padding-left: 10px!important;
+}
+
+.padding-right-10{
+    padding-right: 10px!important;
+}
+
+.padding-right-100{
+    padding-right: 100px!important;
+}
+
+.margin-0{
+    margin: 0;
+}
+
+.margin-top-10{
+    margin-top: 10px!important;
+}
+
+.margin-top-20{
+    margin-top: 20px!important;
+}
+
+.margin-bottom-30{
+    margin-bottom: 30px!important;
+}
+
+.margin-right-10{
+    margin-right: 10px!important;
+}
+
+.margin-left-10{
+    margin-left: 10px!important;
+}
+
+.member-list-item .left {
+    vertical-align: middle!important;
+}
+
+.btn-shop{
+    padding: 10px!important;
+    min-width: 105px!important;
+    word-wrap: break-word!important;
+}
+
+.float-left{
+    float: left;
+}
+
+.float-right{
+    float: right;
+}
+
+.text-end {
+    text-align: right!important;
+}
+
+.text-start{
+    text-align: left!important;
+}
+
+.symbol {
+    display: inline-block;
+    flex-shrink: 0;
+    position: relative;
+    border-radius: 0.475rem;
+}
+
+.symbol.symbol-45px>img {
+    width: 45px;
+    height: 45px;
+}
+
+.symbol>img {
+    width: 100%;
+    flex-shrink: 0;
+    display: inline-block;
+    border-radius: 0.475rem;
+}
+
+img, svg {
+    vertical-align: middle;
+}
+
+.vertical-align-middle{
+    vertical-align: middle!important;
+}
+
+.span-vacation{
+    position: absolute;
+    font-size: 18px;
+    font-weight: 700;
+    color: darkblue;
+}
+
+.profile-info-header-right{
+    height: 45px;
+    align-items: center;
+    display: flex;
+}
+
+.custom-badge-container{
+    margin-left: 12px;
+    width: 45px;
+    height: 64px;
+}
+
+.custom-badge{
+position: absolute;
+    width: 45px;
+    height: 45px;
+    top: -5px;
+}
+
+.custom-badge-shipping{
+	top: -8px;
+    width: 64px;
+    height: 64px;
+}
+
+.leave-message-for-seller-btn{
+	width: 100%;
+    margin: 0;
+}
